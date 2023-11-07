@@ -10,7 +10,7 @@ Prática de Javascript do curso da Alura de "consumindo e tratando dados de uma 
 
 Javascript, HTML, CSS...
 
-## Instalação
+## 💾 Instalação
 
 Necessário instalação do JSON Server para simulação da API de vídeos
 
