@@ -4,7 +4,9 @@ Prática de Javascript do curso da Alura de "consumindo e tratando dados de uma 
 
 ## 🚀 Funcionalidades
 
--
+- Consumo de API
+- Filtro por texto no campo de pesquisa
+- Filtro por botões de categoria
 
 ## 🛠 Tecnologia aplicada
 
